@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
-- Live Site URL: [GitHub]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/four-cards-feature-section-using-css-grid-OsJIv5zEJ9)
+- Live Site URL: [GitHub](https://anhvu1012.github.io/Four-card-feature-section/)
 
 ## My process
 
